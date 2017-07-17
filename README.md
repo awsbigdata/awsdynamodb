@@ -1,0 +1,2 @@
+# awsdynamodb
+dynamodb examples
